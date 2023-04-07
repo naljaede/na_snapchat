@@ -1,14 +1,21 @@
 { 
-   "v1":1,
-   "v2":0,
-   "v3":"
-   \nSecret Screenshot Without Knowing Sender
-   \nSecret Screen Record Without Knowing Sender
-   \nHide Typing... indicator in Chat (Don't notify sender that you're typing)
-   \nHide Online in Chat
-   \nHide View Snap
-   \nHide View Story
-   \nHide Read Messages
-   \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
-   "website":"https://apk2.app/NAInstagram.html"
+"v1":2,
+"v2":0,
+"v3":"
+\n♻️[تحديث] قاعد واتساب الى 12.26.0.20
+\n🏴 خيار الوضع الليلي التجريبي (90٪ من واجهات التطبيق)
+\n♾ عرض السناب والستوري لوقت غير محدود ⏳
+\n⬇️ خيار تحميل الـسنابات الخاصة
+\n⬇️ خيار تحميل الستوري
+\n⬇️ خيار تحميل فيديوهات ال spotlight
+\n🔧 اصلاح  إشعار خدمات جوجل المزعج
+\n\n♻️ [Base Update] to 12.26.0.20 - Play Store
+\n🏴 Night Mode option beta (90% of UI - cant do more now)
+\n♾ View snaps and story for unlimited time ⏳
+\n⬇️ Download option for Snaps
+\n⬇️Download option for Stories
+\n⬇️ Download option for Discover
+\n⬇️Download option for Spotlight 
+\n🔧 Annoying Gservices notification",
+"website":"https://apk2.app/NAInstagram.html"
 }
