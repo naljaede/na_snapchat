@@ -10,5 +10,5 @@
    \nHide View Story
    \nHide Read Messages
    \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
-   "website":"https://apk2.app/NAInstagram.html"
+   "website":"https://naljaede.github.io/Apk-SnapChat-Down/"
 }
