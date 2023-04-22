@@ -17,5 +17,5 @@
 \n⬇️ Download option for Discover
 \n⬇️Download option for Spotlight 
 \n🔧 Annoying Gservices notification",
-"website":"https://www.naljaede.com/2023/04/na-snapchat-plus.html"
+"website":"https://naljaede.github.io/Apk-SnapChat-Down/"
 }
