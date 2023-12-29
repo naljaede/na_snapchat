@@ -1,21 +1,8 @@
 { 
-"v1":2,
-"v2":0,
+"v1":3,
+"v2":5,
 "v3":"
-\n♻️[تحديث] قاعد واتساب الى 12.26.0.20
-\n🏴 خيار الوضع الليلي التجريبي (90٪ من واجهات التطبيق)
-\n♾ عرض السناب والستوري لوقت غير محدود ⏳
-\n⬇️ خيار تحميل الـسنابات الخاصة
-\n⬇️ خيار تحميل الستوري
-\n⬇️ خيار تحميل فيديوهات ال spotlight
-\n🔧 اصلاح  إشعار خدمات جوجل المزعج
-\n\n♻️ [Base Update] to 12.26.0.20 - Play Store
-\n🏴 Night Mode option beta (90% of UI - cant do more now)
-\n♾ View snaps and story for unlimited time ⏳
-\n⬇️ Download option for Snaps
-\n⬇️Download option for Stories
-\n⬇️ Download option for Discover
-\n⬇️Download option for Spotlight 
-\n🔧 Annoying Gservices notification",
+\n♻️ تحديث جديد
+\n\n♻️ New Update
 "website":"https://naljaede.github.io/Apk-SnapChat-Down/"
 }
